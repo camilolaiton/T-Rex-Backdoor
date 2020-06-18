@@ -1,0 +1,4 @@
+requests==2.18.4
+mss==5.1.0
+pygame==2.0.0.dev11
+pynput
