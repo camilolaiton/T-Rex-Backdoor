@@ -305,6 +305,10 @@ class Server():
         print("----┃ SITE: github.com/camilolaiton ┃----")
         print("----┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛----%s" % (white_color))
 
+        print("\n%sDisclaimer: This tool is designed for security testing in an authorized simulated cyberattack. Attacking targets without prior mutual consent is illegal and you will be possible sent to jail if you don't obey all aplicable local, state and federal laws.%s" %(red_color, white_color))
+        print("\n%s Developers assume no liability and are not responsible for any misuse or damage caused by this program. It has just been made just for academic reasons.%s\n" % (info_color, white_color))
+        print("%s Starting T-Rex...\n" % (info_color))
+        
     def sending_shell(self):
         shot_counter = 0
         camera_counter = 0

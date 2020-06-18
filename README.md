@@ -2,7 +2,7 @@
 A backdoor created in Python 3.
 
 ## Legal disclaimer
-Usage of T-Rex Backdoor for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+Usage of T-Rex Backdoor for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. It has just been made just for academic reasons.
 
 # End
   If you want to improve this repository, please send a pull request and I will read your code. If I consider it helps then I will accept.
