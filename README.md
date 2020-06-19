@@ -1,10 +1,9 @@
 # T-Rex Backdoor
 
-![GitHub top language](https://img.shields.io/github/languages/top/camilolaiton/T-Rex-Backdoor)
-![GitHub last commit](https://img.shields.io/github/last-commit/camilolaiton/T-Rex-Backdoor)
-![GitHub version](https://img.shields.io/github/v/tag/camilolaiton/T-Rex-Backdoor)
-![Instagram](https://img.shields.io/static/v1?label=insta&logo=instagram&message=camilo_laiton&color=purple)
-[![Insta](https://img.shields.io/static/v1?label=insta&logo=instagram&message=camilo_laiton&color=purple "camilo's insta")](https://www.instagram.com/camilo_laiton/ "profil")
+[![GitHub top language](https://img.shields.io/github/languages/top/camilolaiton/T-Rex-Backdoor)](https://github.com/camilolaiton/T-Rex-Backdoor)
+[![GitHub last commit](https://img.shields.io/github/last-commit/camilolaiton/T-Rex-Backdoor)](https://github.com/camilolaiton/T-Rex-Backdoor)
+[![GitHub version](https://img.shields.io/github/v/tag/camilolaiton/T-Rex-Backdoor)](https://github.com/camilolaiton/T-Rex-Backdoor)
+[![Instagram](https://img.shields.io/static/v1?label=insta&logo=instagram&message=camilo_laiton&color=purple "camilo's insta")](https://www.instagram.com/camilo_laiton/ "profil")
 
 A backdoor created in Python 3 for Linux machines.
 
