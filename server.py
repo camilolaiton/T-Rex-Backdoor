@@ -276,7 +276,7 @@ class Server():
         print("--exit -> Exits server program")
         print("--download [client_path] -> Downloads a file from the current client")
         print("--upload [server_path] -> Uploads a file from the server to client")
-        print("--get [URL] -> Downloads a file from a URL")
+        print("--get [URL] -> Downloads a file from an URL")
         print("--run [program] -> Runs an installed software")
         print("--userinfo -> Shows system's client information")
         print("--screen -> Takes a screnshot from the current client")
@@ -305,8 +305,8 @@ class Server():
         print("----┃ SITE: github.com/camilolaiton ┃----")
         print("----┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛----%s" % (white_color))
 
-        print("\n%sDisclaimer: This tool is designed for security testing in an authorized simulated cyberattack. Attacking targets without prior mutual consent is illegal and you will be possible sent to jail if you don't obey all aplicable local, state and federal laws.%s" %(red_color, white_color))
-        print("\n%s Developers assume no liability and are not responsible for any misuse or damage caused by this program. It has just been made just for academic reasons.%s\n" % (info_color, white_color))
+        print("\n%sDisclaimer: This tool is designed for security testing in an authorized\nsimulated cyberattack. Attacking targets without prior mutual consent is\nillegal and you will be possible sent to jail if you don't obey all\naplicable local, state and federal laws.%s" %(red_color, white_color))
+        print("\n%s Developers assume no liability and are not responsible for any\nmisuse or damage caused by this program. It has just been made just\nfor academic reasons.%s\n" % (info_color, white_color))
         print("%s Starting T-Rex...\n" % (info_color))
         
     def sending_shell(self):
